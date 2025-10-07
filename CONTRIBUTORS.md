@@ -1,4 +1,5 @@
 # Faculty Advisors: 
+### Fall 2025 to Spring 2026
 - Catie Baker 
 - Steven Fernandes 
 - Kevin Lumbard 
