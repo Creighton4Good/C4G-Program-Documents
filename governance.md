@@ -24,12 +24,14 @@ Comprised of at least three faculty members from the Department of Computer Scie
 Meetings are held monthly during active semesters. 
 
 # 3. Student Leadership Team
-Student leaders serve as the operational core of Creighton4Good. Two co-leads (technical and organizational) are selected annually, alongside project leads and optional documentation or communications roles.
+Student leaders serve as the operational core of Creighton4Good. These internship postions and are selected by semester.
 ### Responsibilities include:
+- Software Development
 - Coordinating sprint planning and development cycles
 - Managing GitHub organization settings and contributor onboarding
 - Reviewing pull requests and documentation
 - Mentoring peers and reporting progress to faculty advisors
+- Maintaining Program applications 
 
 # 4. Project Governance
 Projects follow a four-stage lifecycle: Proposal, Active Development, Maintenance, and Archival. Each stage ensures continuity, mentorship, and documentation for future contributors.
