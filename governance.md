@@ -12,7 +12,7 @@ Coordinates projects, develops software, and manages repositories and operations
 Participate in the development, testing, design, and documentation processes. Support the program and projects through volunteer work and coursework.
 
 # 2. Faculty Advisory Committee
-Comprised of at least three faculty members from the Department of Computer Science, Design, and Journalism.
+Comprised of at least three faculty members from the Department of Computer Science, Design, and Journalism. See [CONTRIBUTERS.md](/CNTRIBUTORS.md)
 
 ### Responsibilities include: 
 - Approving new project proposals 
@@ -24,7 +24,7 @@ Comprised of at least three faculty members from the Department of Computer Scie
 Meetings are held monthly during active semesters. 
 
 # 3. Student Leadership Team
-Student leaders serve as the operational core of Creighton4Good. These internship postions and are selected by semester.
+Student leaders serve as the operational core of Creighton4Good. These internship postions and are selected by semester. See [CONTRIBUTERS.md](/CNTRIBUTORS.md)
 ### Responsibilities include:
 - Software Development
 - Coordinating sprint planning and development cycles
