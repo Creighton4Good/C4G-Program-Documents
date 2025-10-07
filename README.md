@@ -1,4 +1,4 @@
-# Creighton 4 Good Program
+# Creighton 4 Good Program README
 
 ## Mission 
 Creighton4Good is Creighton University’s open source software development lab. It serves as a collaborative learning environment where students, faculty, and community partners co-create and maintain open source software that advances the common good.
