@@ -8,6 +8,7 @@ It serves as a collaborative learning environment where students, faculty, and c
 - Contribute to global open source initiatives that align with the University’s mission of service and justice.
  
 # 2. Governance Structure
+[See governance.md for a more detail description of program and project governance](governance.md)
 ## 2.1 Faculty Governance
 Creighton4Good operates under the direction of a Faculty Advisory Committee drawn from the Department of Computer Science, Design, and Journalism.
 ### Responsibilities include:
