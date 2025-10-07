@@ -5,31 +5,31 @@ Creighton4Good operates under a shared governance model combining faculty oversi
 
 ## Program Roles: 
 ### Faculty Advisory Committee 
-•	Provides oversight, ensures policy compliance, and approves projects and partnerships. Coordinates program and course collaborations. 
+- Provides oversight, ensures policy compliance, and approves projects and partnerships. Coordinates program and course collaborations. 
 ### Student Leadership Team (Internship)
-•	Coordinates projects, develops software, and manages repositories and operations. Manage individual projects, documentation, and sprint cycles. 
+- Coordinates projects, develops software, and manages repositories and operations. Manage individual projects, documentation, and sprint cycles. 
 ### Contributors
-•	Participate in the development, testing, design, and documentation processes. Support the program and projects through volunteer work and coursework.
+- Participate in the development, testing, design, and documentation processes. Support the program and projects through volunteer work and coursework.
 
 # 2. Faculty Advisory Committee
 Comprised of at least three faculty members from the Department of Computer Science, Design, and Journalism.
 
 ### Responsibilities include: 
-• Approving new project proposals 
-• Ensuring license and policy compliance 
-• Providing mentorship to student leaders 
-• Reviewing annual reports and lab operations 
-• Representing Creighton4Good in external partnerships 
+- Approving new project proposals 
+- Ensuring license and policy compliance 
+- Providing mentorship to student leaders 
+- Reviewing annual reports and lab operations 
+- Representing Creighton4Good in external partnerships 
 
 Meetings are held monthly during active semesters. 
 
 # 3. Student Leadership Team
 Student leaders serve as the operational core of Creighton4Good. Two co-leads (technical and organizational) are selected annually, alongside project leads and optional documentation or communications roles.
 ### Responsibilities include:
-• Coordinating sprint planning and development cycles
-• Managing GitHub organization settings and contributor onboarding
-• Reviewing pull requests and documentation
-• Mentoring peers and reporting progress to faculty advisors
+- Coordinating sprint planning and development cycles
+- Managing GitHub organization settings and contributor onboarding
+- Reviewing pull requests and documentation
+- Mentoring peers and reporting progress to faculty advisors
 
 # 4. Project Governance
 Projects follow a four-stage lifecycle: Proposal, Active Development, Maintenance, and Archival. Each stage ensures continuity, mentorship, and documentation for future contributors.
@@ -39,10 +39,10 @@ Decisions are classified as technical, programmatic, or governance-related. Tech
 
 # 6. Meetings and Communication
 Regular meetings foster collaboration and accountability:
-• Weekly stand-ups: Student contributors
-• Biweekly sprint reviews
-• Monthly faculty advisory meetings
-• End-of-semester retrospectives for reflection and feedback
+- Weekly stand-ups: Student contributors
+- Biweekly sprint reviews
+- Monthly faculty advisory meetings
+- End-of-semester retrospectives for reflection and feedback
 
 # 7. Transparency and Documentation
 When possible, all program documents will be maintained in a public GitHub repository. Each project must include standard files: README.md, CONTRIBUTING.md, LICENSE.md, MAINTAINERS.md, and CODE_OF_CONDUCT.md.
