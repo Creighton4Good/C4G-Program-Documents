@@ -5,11 +5,11 @@ Creighton4Good operates under a shared governance model combining faculty oversi
 
 ## Program Roles: 
 ### Faculty Advisory Committee 
-- Provides oversight, ensures policy compliance, and approves projects and partnerships. Coordinates program and course collaborations. 
+Provides oversight, ensures policy compliance, and approves projects and partnerships. Coordinates program and course collaborations. 
 ### Student Leadership Team (Internship)
-- Coordinates projects, develops software, and manages repositories and operations. Manage individual projects, documentation, and sprint cycles. 
+Coordinates projects, develops software, and manages repositories and operations. Manage individual projects, documentation, and sprint cycles. 
 ### Contributors
-- Participate in the development, testing, design, and documentation processes. Support the program and projects through volunteer work and coursework.
+Participate in the development, testing, design, and documentation processes. Support the program and projects through volunteer work and coursework.
 
 # 2. Faculty Advisory Committee
 Comprised of at least three faculty members from the Department of Computer Science, Design, and Journalism.
