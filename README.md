@@ -6,21 +6,11 @@
 
 
 
-Copyright © 2025–2026 Creighton University 
-and the individual contributors of the Creighton4Good Open Source Lab.
+Copyright © 2025–2026 Creighton University  and the individual contributors of the Creighton4Good Open Source Lab.
 
-This software and its associated documentation files (the “Software”) were
-created as part of the Creighton4Good program at Creighton University,
-a faculty-governed, student-led open source software development lab.
+This repository and its associated documentation files were created as part of the Creighton4Good program at Creighton University, a faculty-governed, student-led open source software development lab.
 
-Licensed under the MIT License — see the [LICENSE](LICENSE.md) file for full terms.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this Software and associated documentation files, to deal in the Software
-without restriction under the terms of the MIT License, including without
-limitation the rights to use, copy, modify, merge, publish, distribute,
-sublicense, and/or sell copies of the Software, subject to the following
-conditions:
+This project repository is licensed under the MIT License — see the [LICENSE](LICENSE.md) file for full terms.
 
 1. Attribution must be given to:
    - “Creighton University” as the institutional home of Creighton4Good.
