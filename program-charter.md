@@ -48,3 +48,23 @@ All projects must be released under an OSI-approved open source license (e.g., M
 - Documentation: Each project maintains installation, contribution, and governance documentation to support continuity.
 - Meetings: Student teams hold regular sprint reviews, stand-ups, and end-of-semester retrospectives.
 - Community Standards: Creighton4Good adopts a Code of Conduct modeled after the the [contributor covenant](https://www.contributor-covenant.org/)
+
+# 5. Licensing and Attribution Policy
+## 5.1 Licensing
+All Creighton4Good projects must include a use an OSI-approved open source license, such as:
+- MIT License
+- Apache License 2.0
+- GNU GPLv3
+Licenses are selected during project approval and documented in each repository’s root directory as LICENSE. 
+Projects must:
+- Include a copyright notice identifying contributors and Creighton University.
+- Document any third-party dependencies and their licenses.
+- Ensure compliance with all data privacy and accessibility requirements.
+## 5.2 Attribution
+- Each repository maintains a CONTRIBUTORS.md file listing all contributors.
+- Publications or presentations should cite both individual contributors and Creighton4Good as the institutional home.
+- When code or designs are reused in other projects, attribution must include a link back to the original repository and acknowledgment of Creighton4Good.
+## 5.3 Educational and Archival Rights
+Creighton University retains nonexclusive rights to:
+- Archive code, documentation, and research outputs for educational and institutional purposes.
+- Reference projects in promotional, academic, or service-learning contexts.
