@@ -9,7 +9,7 @@ Creighton4Good is Creighton University’s open source software development lab.
 - Support projects that strengthen local communities, nonprofit organizations, and socially responsible technology ecosystems.
 - Contribute to global open source initiatives that align with the University’s mission of service and justice.
 
-## Current Projects - iI development and being maintained
+## Current Projects - In development and being maintained
 
 Food waste and sustainability application...
 
