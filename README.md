@@ -13,7 +13,7 @@ This software and its associated documentation files (the “Software”) were
 created as part of the Creighton4Good program at Creighton University,
 a faculty-governed, student-led open source software development lab.
 
-Licensed under the MIT License — see the LICENSE file for full terms.
+Licensed under the MIT License — see the [LICENSE](LICENSE.md) file for full terms.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this Software and associated documentation files, to deal in the Software
@@ -31,8 +31,7 @@ conditions:
 
 3. Projects developed under Creighton4Good are intended for educational
    and public benefit purposes, consistent with Creighton University’s
-   Jesuit mission to serve others and promote the common good.
+   mission to serve others and promote the common good.
 
 For questions about licensing, attribution, or partnership use,
-please contact the Creighton4Good Faculty Advisory Committee at:
-creighton4good@creighton.edu
+please contact the Creighton4Good Faculty Advisory Committee.
