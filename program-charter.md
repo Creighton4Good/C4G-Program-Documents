@@ -21,7 +21,7 @@ Faculty advisors model cura personalis—care for the whole person—by guiding 
  
 ## 2.2 Student Leadership
 Creighton4Good is primarily student-led, with faculty providing mentorship and oversight.
-Student Leads (appointed or elected each semester) coordinate project teams, manage repositories, and ensure that work reflects open source values of transparency, collaboration, and inclusion.
+Student Leads (appointed each semester) coordinate project teams, manage repositories, and ensure that work reflects open source values of transparency, collaboration, and inclusion.
 Responsibilities include:
 - Managing issue boards, documentation, and release schedules.
 - Upholding coding standards and the lab’s Code of Conduct.
