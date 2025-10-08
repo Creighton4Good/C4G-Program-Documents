@@ -55,8 +55,9 @@ All Creighton4Good projects must include a use an OSI-approved open source licen
 - MIT License
 - Apache License 2.0
 - GNU GPLv3
-Licenses are selected during project approval and documented in each repository’s root directory as LICENSE. 
-Projects must:
+Licenses are selected during project approval and documented in each repository’s root directory as LICENSE.   
+
+Projects must:  
 - Include a copyright notice identifying contributors and Creighton University.
 - Document any third-party dependencies and their licenses.
 - Ensure compliance with all data privacy and accessibility requirements.
