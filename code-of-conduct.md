@@ -23,7 +23,7 @@ Our community embodies Creighton’s Jesuit mission and open source principles.
 - Plagiarism or misrepresentation of others’ work.
 - Disruptive, hostile, or dismissive conduct.
 - Sharing sensitive data or private information without consent.
-- 
+
 ### Reporting and Resolution
 - Students should first reach out to a Faculty Advisor.
 - Concerns may also be reported confidentially to the Creighton University
