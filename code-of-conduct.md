@@ -10,6 +10,8 @@ Our community embodies Creighton’s Jesuit mission and open source principles.
 - Integrity — Contribute honestly and acknowledge others’ work.
 - Service — Use our technical skills to benefit others and advance the common good.
 - Reflection — Consider the social and ethical implications of our work.
+
+### Modeled Behavior
 - Be respectful in communication and collaboration.
 - Provide constructive feedback and accept feedback gracefully.
 - Recognize and credit others’ contributions.
