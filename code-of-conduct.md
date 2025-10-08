@@ -1,7 +1,8 @@
 # Code of Conduct
 1. Purpose
-Creighton4Good is committed to creating a welcoming, inclusive, and respectful environment for all contributors. This Code of Conduct defines expectations for behavior and outlines processes for addressing issues. Faculty and Students are also expected to adhere to Creighton's policies on personal and professional conduct.  
-2. Core Values
+Creighton4Good is committed to creating a welcoming, inclusive, and respectful environment for all contributors. This Code of Conduct defines expectations for behavior and outlines processes for addressing issues. Faculty and Students are also expected to adhere to Creighton's policies on personal and professional conduct.
+
+3. Core Values
 Our community embodies Creighton’s Jesuit mission and open source principles. We commit to:
 - Respect — Treat all contributors with dignity and kindness.
 - Integrity — Contribute honestly and acknowledge others’ work.
