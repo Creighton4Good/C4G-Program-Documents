@@ -1,4 +1,4 @@
-# Code of Conduct
+# C4G Code of Conduct
 ## Purpose
 Creighton4Good is committed to creating a welcoming, inclusive, and respectful environment for all contributors. This Code of Conduct defines expectations for behavior and outlines processes for addressing issues. Faculty and Students are also expected to adhere to Creighton's policies on personal and professional conduct.
 
