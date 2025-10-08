@@ -1,9 +1,10 @@
-1. Getting Started
+#Getting Started  
 Welcome to Creighton4Good! Whether you’re a first-time contributor or an experienced developer, we’re glad you’re here.
-Start by:
+
+###Start by:
 1.	Reviewing the project README and issue board.
 2.	Reading the Code of Conduct and this document.
-3.	Asking questions in the project’s discussion channels or meetings.
+3.	Ask questions in the project’s discussion channels or meetings.
 2. How to Contribute
 •	Fork the repository and work in your own branch.
 •	Follow project-specific naming conventions and commit message guidelines.
