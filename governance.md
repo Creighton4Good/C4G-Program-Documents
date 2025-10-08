@@ -1,4 +1,4 @@
-Creighton4Good is Creighton University’s open source software development lab, governed collaboratively by faculty and students. This manual defines governance processes, roles, and accountability structures to ensure the lab operates transparently, ethically, and in alignment with the University’s Jesuit mission.
+Creighton4Good is Creighton University’s open source software development lab, governed collaboratively by faculty and students. This manual defines governance processes, roles, and accountability structures to ensure the lab operates transparently, ethically, and in alignment with the University’s mission.
 
 # 1. Governance Overview
 Creighton4Good operates under a shared governance model combining faculty oversight with student-led project management. This approach balances educational mentorship with authentic open source participation.
@@ -48,7 +48,7 @@ Regular meetings foster collaboration and accountability:
 - End-of-semester retrospectives for reflection and feedback
 
 # 7. Transparency and Documentation
-When possible, all program documents will be maintained in a public GitHub repository. Each project must include standard files: README.md, CONTRIBUTING.md, LICENSE.md, MAINTAINERS.md, and CODE_OF_CONDUCT.md.
+When possible, all program documents will be maintained in a public GitHub repository. Each project must include standard files: README.md, CONTRIBUTING.md, LICENSE.md, MAINTAINERS.md, and CODE_OF_CONDUCT.md. Individual project repositories may link to program standard files when appropropriate.
 
 # 8. External Partnerships and Funding
 All partnerships must align with Creighton’s mission and be reviewed by the Faculty Advisory Committee. External funding and sponsorships require approval from both the committee and the University.
