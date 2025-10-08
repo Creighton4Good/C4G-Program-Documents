@@ -19,7 +19,8 @@ Comprised of at least three faculty members from the Department of Computer Scie
 - Ensuring license and policy compliance 
 - Providing mentorship to student leaders 
 - Reviewing annual reports and lab operations 
-- Representing Creighton4Good in external partnerships 
+- Representing Creighton4Good in external partnerships
+- Coordinating course work contributions
 
 Meetings are held monthly during active semesters. 
 
